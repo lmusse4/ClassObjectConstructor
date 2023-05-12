@@ -1,7 +1,7 @@
 public class Product {
 
     public static void main(String[] args) {
-        // create a new product with a cost of $10, a quantity of 5, and a name of "widget"
+        // create a new product with a cost of $4, a quantity of 10, and a name of "Gallon" per example
         Product product = new Product(4, 10, "Gallon");
 
         // call the printProduct method to print the product details
